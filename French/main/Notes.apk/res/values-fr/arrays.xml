@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Appareil photo</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nom</item>
+        <item>Surnom</item>
+        <item>Téléphone</item>
+        <item>Email</item>
+        <item>Société</item>
+        <item>IM</item>
+        <item>Numéro VoIP</item>
+        <item>Anniversaire</item>
+        <item>Site Web</item>
+        <item>Adresse</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Petite</item>
+        <item>Moyenne</item>
+        <item>Grande</item>
+        <item>Énorme</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Par date de création</item>
+        <item>Par date de modification</item>
+    </string-array>
+</resources>

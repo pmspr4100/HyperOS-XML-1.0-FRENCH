@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Trier par heure de réception</item>
+        <item>Trier par nombre de notifications</item>
+        <item>Applications qui peuvent afficher des notifications</item>
+        <item>Applications qui ne peuvent pas afficher les notifications</item>
+    </string-array>
+</resources>
