@@ -14,7 +14,7 @@ Based on a work at http://miui.com
 For more info visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-[Xiaomi.eu Translation Guide](https://docs.google.com/document/d/1H8DoN6nnbsOGB_fauBiCcpyB4OAIEHjqEiJX322v45Y/edit?usp=sharing)
+- [Xiaomi.eu Translation Guide](https://docs.google.com/document/d/1H8DoN6nnbsOGB_fauBiCcpyB4OAIEHjqEiJX322v45Y/edit?usp=sharing)
 
 ##### Credits:
 - PMS
