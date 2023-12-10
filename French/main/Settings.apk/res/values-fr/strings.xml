@@ -3027,6 +3027,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="display_order_text">Trier par :</string>
     <string name="display_prompt_confirm">Compris</string>
     <string name="display_settings">Affichage</string>
+    <string name="display_settings_new">Affichage &amp; luminosité</string>
     <string name="display_settings_title">Affichage</string>
     <string name="display_summary">"Mode veille activé après %1$s d'inactivité"</string>
     <string name="display_summary_example">"Mode veille après 10 minutes d'inactivité"</string>
@@ -5753,6 +5754,7 @@ Passer à %1$s n'annulera pas votre %2$s service."</string>
     <string name="month_september_shortest">Sept</string>
     <string name="more">Plus</string>
     <string name="more_account_settings_title">Autres comptes</string>
+    <string name="more_connection">"Plus d'options de connectivité"</string>
     <string name="more_dangerous_option_hint">Des fonctionnalités à risque élevé comprenant \"%1$s\" sont activées. Appuyez pour modifier les paramètres.</string>
     <string name="more_dark_mode_settings">"Plus d'options Mode sombre"</string>
     <string name="more_font_pref_title">Plus de polices</string>
