@@ -1345,6 +1345,7 @@ for ^2"</string>
     <string name="biometrics_unlock_title">You can unlock your phone using your face or fingerprint. For security, this option requires a backup screen lock.</string>
     <string name="blank_screen_no_device">Aucun périphérique</string>
     <string name="blank_screen_no_record">No records here yet</string>
+    <string name="ble_audio_title_V2">Bluetooth LE Audio</string>
     <string name="ble_scan_notify_text">Pour améliorer la précision de la localisation, les applications et les services système peuvent toujours détecter les périphériques Bluetooth. Vous pouvez modifier ce paramètre dans les LINK_BEGINparamètres de rechercheLINK_END.</string>
     <string name="blob_expires_text">Expires at %s</string>
     <string name="blob_id_text">Shared data ID: %d</string>
@@ -1355,6 +1356,7 @@ for ^2"</string>
     <string name="block_list_dialog_content">Cette action déconnectera \"%s\" de cet appareil et ajoutée à la liste noire</string>
     <string name="block_list_dialog_title">Déconnecter maintenant ?</string>
     <string name="block_list_no_device">Aucun appareil connecté dans la liste noire</string>
+    <string name="block_list_no_device_icon">No devices here yet</string>
     <string name="block_list_remove_dialog_content">"L'appareil \"%s\" sera en mesure de se connecter à ce point d'accès"</string>
     <string name="block_list_remove_dialog_title">Attention</string>
     <string name="block_list_summary">"Afficher les appareils qui ne sont pas autorisés à se connecter à ce point d'accès"</string>
@@ -3637,7 +3639,7 @@ To learn more, contact your credit provider."</string>
     <string name="fingerprint_enable_keyguard_toggle_title">"verrouillage de l'écran"</string>
     <string name="fingerprint_enroll_button_add">Ajouter une empreinte</string>
     <string name="fingerprint_enroll_button_next">Suivant</string>
-    <string name="fingerprint_face_password_unlock">Fingerprints, face data, and screen lock</string>
+    <string name="fingerprint_face_password_unlock">"Empreintes digitales, données faciales et verrouillage de l'écran""</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">"Visage (définissez d'abord un mot de passe)"</string>
     <string name="fingerprint_first_open_screen_password_tittle">"Empreinte digitale (définissez le mot de passe d'écran de verrouillage avant de l'utiliser)"</string>
     <string name="fingerprint_for_keyguard_disabled">"Le lecteur d'empreintes digitales a été désactivé par les paramètres de sécurité."</string>
@@ -3654,14 +3656,14 @@ To learn more, contact your credit provider."</string>
     <string name="fingerprint_last_delete_title">Supprimer les empreintes digitales ?</string>
     <string name="fingerprint_list_title">Empreinte digitale</string>
     <string name="fingerprint_lock_first">Déverrouiller le premier espace</string>
-    <string name="fingerprint_lock_second">Déverrouiller le Deuxième espace</string>
+    <string name="fingerprint_lock_second">Déverrouiller le deuxième espace</string>
     <string name="fingerprint_manage">Gestion des empreintes digitales</string>
     <string name="fingerprint_manage_category_title">Gérer empreintes num.</string>
     <string name="fingerprint_manage_tittle">Empreinte digitale</string>
     <string name="fingerprint_not_identified_msg">"Impossible de lire l'empreinte. Saisissez votre mot de passe"</string>
     <string name="fingerprint_not_recognized">Non reconnu</string>
     <string name="fingerprint_others_title">Autre</string>
-    <string name="fingerprint_password_unlock">Fingerprints &amp; screen lock</string>
+    <string name="fingerprint_password_unlock">"Empreintes &amp; verrouillage d'écran"</string>
     <string name="fingerprint_payment">Paiements avec empreintes digitales</string>
     <string name="fingerprint_removal_failed">"Impossible de supprimer l'empreinte digitale, réessayez plus tard"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Consulter les notifications rapidement</string>
@@ -7945,6 +7947,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="security_settings_udfps_enroll_title_one_more_time">One more time</string>
     <string name="security_settings_udfps_side_fingerprint_help">Place the side of your fingerprint on the sensor and hold, then switch to the other side</string>
     <string name="security_settings_udfps_tip_fingerprint_help">Lift, then touch again</string>
+    <string name="security_settings_work_biometric_preference_title">Face &amp; Fingerprint Unlock for work</string>
     <string name="security_settings_work_fingerprint_preference_title">Fingerprint for work</string>
     <string name="security_status">État de la sécurité</string>
     <string name="security_status_title">État de la sécurité</string>
