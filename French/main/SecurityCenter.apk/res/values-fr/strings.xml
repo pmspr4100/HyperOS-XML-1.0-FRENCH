@@ -3422,6 +3422,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_abnormal_scan_reason_use_GPS">Utilise les services de localisation trop fréquemment</string>
     <string name="pc_abnormal_scan_reason_wake_system">Réveille le système trop souvent</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
+    <string name="pc_always_charge_protect_summary">"Autoriser uniquement la charge jusqu'à %1$s pour maintenir l'état de la batterie"</string>
+    <string name="pc_always_charge_protect_title">Charge limitée</string>
+    <string name="pc_batery_information">Informations sur la batterie</string>
+    <string name="pc_batery_protection">Protection de la batterie</string>
+    <string name="pc_battery_charge_protect">Protection de charge</string>
     <string name="pc_battery_chart_loading">Un instant…</string>
     <string name="pc_battery_detail_curve_reference_now">Maintenant</string>
     <string name="pc_battery_detail_device_item_title">"Statistiques d'utilisations"</string>
@@ -3443,7 +3448,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Battery saver will be turned off when %1$s is %2$s or fully charged</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">Turned on Battery saver on %s</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s battery is lower than %2$s. Turn on Battery saver to add %3$s %4$s.</string>
-    <string name="pc_continuity_open_save_mode_notifi_title">%s battery is low</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s batterie faible</string>
+    <string name="pc_current_power_mode">Mode actuel</string>
     <string name="pc_emergency_call">Urgence</string>
     <string name="pc_endurance_calculation">Calcul…</string>
     <string name="pc_entered_extreme_mode">Le mode veille prolongée est activé</string>
@@ -3497,6 +3503,12 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_main_power_manager_hour_minute">"%1$s h %2$s m jusqu'à la charge complète"</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s j %2$s h restant</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s m restante</string>
+    <string name="pc_more_battery_feature">Caractéristiques supplémentaires</string>
+    <string name="pc_more_power_rank_apps">"Plus d'applications"</string>
+    <string name="pc_night_charge_protect_summary">Ajustez automatiquement la durée de charge pour préserver la longévité de la batterie</string>
+    <string name="pc_night_charge_protect_title">Protection de charge nocturne</string>
+    <string name="pc_night_sleep_mode_summary">Désactivez automatiquement certaines fonctionnalités pour économiser la batterie lorsque le sommeil est détecté</string>
+    <string name="pc_night_sleep_mode_title">Mode nuit</string>
     <string name="pc_no_more_remind">Ne pas me le rappeler</string>
     <string name="pc_performance_mode_dialog_summary">"Votre appareil pourra fonctionner pendant %s en mode Performance. Notez que le mode Performance augmente la consommation d'énergie et peut entraîner une surchauffe."</string>
     <string name="pc_performance_mode_dialog_summary2">"Les performances de l'appareil s'amélioreront. Cela peut augmenter la consommation d'énergie et entraîner des problèmes de surchauffe. Activer quand même ?"</string>
@@ -3551,6 +3563,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="permgroupdesc_sensors">Accès aux données du capteur du corps</string>
     <string name="permgroupdesc_sms">Lire ou envoyer des messages</string>
     <string name="permgroupdesc_storage">"Accès aux photos ou aux fichiers sur l'appareil"</string>
+    <string name="permisison_usage_menu_all">Tout</string>
+    <string name="permisison_usage_menu_terminal">Interconnectivité</string>
+    <string name="permisison_usage_now_camera">Cette application accède maintenant à la caméra</string>
+    <string name="permisison_usage_now_location">Cette application accède maintenant à votre position</string>
+    <string name="permisison_usage_now_mic">Cette application accède maintenant au microphone</string>
     <string name="permission_action_accept">Accepter</string>
     <string name="permission_action_ai_prompt">Decider pour moi</string>
     <string name="permission_action_always">Toujours autoriser</string>
