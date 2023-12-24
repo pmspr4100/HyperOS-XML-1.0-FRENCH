@@ -14,7 +14,7 @@ SET _src=D:\Android\Github\HyperOS-XML-1.0-FRENCH\French\translators\__repo\
 SET _dst=D:\Android\Github\HyperOS-XML-1.0-FRENCH\French\device\
 SET _mnt=D:\Android\Github\HyperOS-XML-1.0-FRENCH\French\main
 
-SET _dir=\%_APKFILE%\res\values-ru\
+SET _dir=\%_APKFILE%\res\values-fr\
 
 echo -------------------- >> %report%
 echo device=%_DEVICE%, apk=%_APKFILE% >> %report%
