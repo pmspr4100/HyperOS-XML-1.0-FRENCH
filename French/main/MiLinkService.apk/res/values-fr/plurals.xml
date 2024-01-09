@@ -27,7 +27,39 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Il y a %d min</item>
-        <item quantity="one">Il y a 1 min</item>
+        <item quantity="one">Il y a %d min</item>
+    </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d appareils</item>
+        <item quantity="one">%1$d appareil</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d appareils</item>
+        <item quantity="one">%1$d appareil</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">Entrer le code depuis %1$s (%2$d s)</item>
+        <item quantity="one">Entrer le code depuis %1$s (%2$d s)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Il y a 1 demi-heure</item>
@@ -42,8 +74,8 @@
         <item quantity="other">Immédiatement</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">dans %d minutes</item>
+        <item quantity="one">dans 1 minute</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">"À l'instant"</item>
@@ -55,5 +87,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
+    </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">%1$d motifs mémorisés</item>
+        <item quantity="one">%1$d motif mémorisé</item>
     </plurals>
 </resources>

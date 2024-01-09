@@ -43,8 +43,6 @@
     <string name="ac_privacy_mode_sum">Demander un mot de passe pour désactiver le mode invité</string>
     <string name="ac_privacy_mode_title">Mot de passe</string>
     <string name="ac_set_apps_title">Choisir une application à bloquer</string>
-    <string name="accelerometer_summary_off">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
-    <string name="accelerometer_summary_on">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
     <string name="accelerometer_title">"Rotation automatique de l'écran"</string>
     <string name="accept_new_connection">Autoriser la connexion à de nouveaux appareils</string>
     <string name="accept_new_connection_detail">Les nouvelles connexions ont été restreintes dans le centre de contrôle</string>
