@@ -727,7 +727,7 @@ Sécurité renforcée."</string>
     <string name="switch_personal_assistant_app_vault">"Coffre d'applications"</string>
     <string name="switch_personal_assistant_google">Actualités Google</string>
     <string name="switch_personal_assistant_none">Aucun</string>
-    <string name="switch_personal_assistant_summary">Balayez vers la droite sur l'écran d'accueil pour ouvrir Google Discover</string>
+    <string name="switch_personal_assistant_summary">"Balayez vers la droite sur l'écran d'accueil pour ouvrir Google Discover"</string>
     <string name="switch_screen_button_order">Inverser les boutons</string>
     <string name="switch_screen_button_order_desc">Inverser les boutons Retour et Menu</string>
     <string name="system_shortcuts_edit">Modifier</string>
