@@ -74,7 +74,6 @@ vos appareils ?"</string>
     <string name="camera_associate_success">Caméra connectée</string>
     <string name="camera_connecting">%s souhaite utiliser la caméra de cet appareil</string>
     <string name="camera_disassociate">Déconnecté de la caméra</string>
-    <string name="cast_image_des">Tutoriel de diffusion</string>
     <string name="cancel_button">Annuler</string>
     <string name="car_air_con_back_switch_close">Éteignez la climatisation du siège arrière</string>
     <string name="car_air_con_back_switch_open">Allumez la climatisation du siège arrière</string>
@@ -98,7 +97,6 @@ vos appareils ?"</string>
     <string name="car_card_seat_level_auto">Auto</string>
     <string name="car_card_seat_level_off">Désactivé</string>
     <string name="car_card_seat_level_one">Niveau %d</string>
-    <string name="car_card_seat_level_two">Niveau %d</string>
     <string name="car_card_seat_level_two">Niveau %d</string>
     <string name="car_card_seat_main_seat">Conducteur</string>
     <string name="car_card_seat_second_seat">Passager avant</string>
