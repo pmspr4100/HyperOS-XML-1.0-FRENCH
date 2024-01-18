@@ -234,9 +234,15 @@
         <item>Verbose</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>Depuis plus de 30 jours</item>
-        <item>Depuis plus de 60 jours</item>
-        <item>Depuis plus de 90 jours</item>
+        <item>Plus de 30 jours</item>
+        <item>Plus de 60 jours</item>
+        <item>Plus de 90 jours</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Graphique</item>
+        <item>"Pourcentage (dans l'icône)"</item>
+        <item>"Pourcentage (à côté de l'icône)"</item>
+        <item>Barre du haut</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphique</item>
