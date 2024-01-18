@@ -1,0 +1,21 @@
+01/01/2024  2:19:22,52 
+!run_copy_translation_batch.bat
+!run_copy_translation_selected.bat
+empty.xml
+filelist.txt
+ignore.xml
+ignore_a.xml
+ignore_p.xml
+makelist.bat
+routine.bat
+routine.bat.bak
+run_copy_default.bat
+run_copy_translation.bat
+run_copy_translation_sel.bat
+run_sort_ignore.bat
+run_sort_translate.bat
+translate.xml
+translate_a.xml
+translate_add.xml
+translate_p.xml
+translate_settings.xml
