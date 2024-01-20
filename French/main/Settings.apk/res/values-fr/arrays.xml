@@ -244,12 +244,6 @@
         <item>"Pourcentage (à côté de l'icône)"</item>
         <item>Barre du haut</item>
     </string-array>
-    <string-array name="battery_indicator_style_entries">
-        <item>Graphique</item>
-        <item>"Pourcentage (dans l'icône)"</item>
-        <item>"Pourcentage (à côté de l'icône)"</item>
-        <item>Barre du haut</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>Non spécifié</item>
         <item>LTE</item>
