@@ -160,6 +160,10 @@
         <item quantity="other">Il y a %d minutes</item>
         <item quantity="one">Il y a 1 minute</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"La synchronisation n'est pas activée pour %s articles"</item>
+        <item quantity="one">"La synchronisation n'est pas activée pour %s article"</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s services seront synchronisés avec Xiaomi Cloud</item>
         <item quantity="one">%s service sera synchronisé avec Xiaomi Cloud</item>
