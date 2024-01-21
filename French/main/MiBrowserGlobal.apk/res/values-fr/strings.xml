@@ -14,7 +14,7 @@
     <string name="abc_searchview_description_search">Rechercher</string>
     <string name="abc_searchview_description_submit">Envoyer la requête</string>
     <string name="abc_searchview_description_voice">Recherche vocale</string>
-u    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="accept_cookies_confirm_message">La désactivation de cette fonction peut entraîner un dysfonctionnement de certains sites web.</string>
