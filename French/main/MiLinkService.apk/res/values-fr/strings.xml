@@ -333,24 +333,6 @@ vos appareils ?"</string>
     <string name="close_invisible_mode_dialog_message">Impossible d’utiliser Mi Smart Play maintenant. Désactivez le mode navigation privée dans les paramètres pour pouvoir utiliser cette fonctionnalité.</string>
     <string name="close_invisible_mode_dialog_ok">Paramètres</string>
     <string name="close_invisible_mode_dialog_title">Vous êtes en navigation privée</string>
-    <string name="common_google_play_services_enable_button">Activer</string>
-    <string name="common_google_play_services_enable_text">%1$s ne fonctionnera que si vous activez les services Google Play.</string>
-    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
-    <string name="common_google_play_services_install_button">Installer</string>
-    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont absents de votre appareil.</string>
-    <string name="common_google_play_services_install_title">Obtenir les services Google Play</string>
-    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
-    <string name="common_google_play_services_notification_ticker">Erreur des services Google Play</string>
-    <string name="common_google_play_services_unknown_issue">%1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil.</string>
-    <string name="common_google_play_services_update_button">Mise à jour</string>
-    <string name="common_google_play_services_update_text">%1$s ne fonctionnera que si vous mettez à jour les services Google Play.</string>
-    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
-    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement en cours de mise à jour.</string>
-    <string name="common_google_play_services_wear_update_text">Nouvelle version des services Google Play requise. Il sera mis à jour sous peu.</string>
-    <string name="common_open_on_phone">Ouvrir sur téléphone</string>
-    <string name="common_signin_button_text">Se connecter</string>
-    <string name="common_signin_button_text_long">Connectez-vous avec Google</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"Impossible de se connecter à l'appareil"</string>
@@ -358,14 +340,13 @@ vos appareils ?"</string>
     <string name="connect_settings_application_ecological">Applications combinées</string>
     <string name="connect_settings_base">Interconnectivité</string>
     <string name="connect_settings_category_connection_car">Caractéristiques de la voiture</string>
-    <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_personal_device">Appareils personnels</string>
+    <string name="connect_settings_communication_sharing">Partage sans fil</string>
     <string name="connect_settings_connect_permission">Interconnectivité et autorisations</string>
     <string name="connect_settings_connect_privacy">Confidentialité</string>
     <string name="connect_settings_connection_service">Interconnectivité de Xiaomi</string>
     <string name="connect_settings_corp_network">Assistance réseau</string>
     <string name="connect_settings_corp_phone">Appels</string>
-    <string name="connect_settings_hyper_mind">HyperMind</string>
     <string name="connect_settings_nfc_share">Transférer des éléments via NFC</string>
     <string name="connect_settings_not_opened">Désactivé</string>
     <string name="connect_settings_opened">Activé</string>
@@ -377,7 +358,6 @@ vos appareils ?"</string>
     <string name="connect_settings_summary"><Data>Découvrez automatiquement les appareils à proximité connectés à votre compte Xiaomi et connectez-les les uns aux autres pour effectuer diverses tâches sur plusieurs appareils. &lt;a href=%1$s>Apprendre encore plus&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Autorisez vos appareils à interagir entre eux sans fil</string>
     <string name="connect_settings_summary_corp_phone">Répondez aux appels sur des tablettes ou des ordinateurs à proximité connectés à votre compte Xiaomi</string>
-    <string name="connect_settings_summary_hyper_mind">"Adaptez automatiquement les appareils à proximité à vos besoins en fonction de vos habitudes d'utilisation. Cette fonctionnalité est optimisée par Mi AI."</string>
     <string name="connect_settings_summary_relay_app">Continuer les tâches dans la même application sur un autre appareil</string>
     <string name="connect_settings_summary_share_clipboard">"Coller le texte et les images sur d'autres appareils dans les %d minutes après les avoir copiés sur cet appareil"</string>
     <string name="connect_settings_summary_share_launcher_pad">"Affichez et interagissez avec les écrans d'accueil des téléphones à proximité connectés à votre compte Xiaomi"</string>
@@ -394,7 +374,6 @@ vos appareils ?"</string>
     <string name="controller_auth_cancel">Annuler</string>
     <string name="controller_auth_title">Vérifier la télécommande</string>
     <string name="copy">Copier</string>
-    <string name="copy_toast_msg">Lien copié dans le presse-papier</string>
     <string name="current_wifi_tv">Réseau actuel</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
     <string name="date_time_picker_dialog_title">"Régler la date et l’heure"</string>
@@ -471,9 +450,6 @@ Voir l’aide si vous avez des problèmes de connexion."</string>
     <string name="evening">Après-midi</string>
     <string name="expand_button_title">Avancé</string>
     <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
-    <string name="fallback_menu_item_copy_link">Copier le lien</string>
-    <string name="fallback_menu_item_open_in_browser">Ouvrir dans le navigateur</string>
-    <string name="fallback_menu_item_share_link">Partager le lien</string>
     <string name="file_read_des">"Pour afficher des photos et d'autres fichiers sur des moniteurs externes"</string>
     <string name="find_device_close">Compris</string>
     <string name="find_device_notification_content_phone">%1$s recherche cet appareil en utilisant %2$s. Déverrouillez pour arrêter la lecture du son.</string>
