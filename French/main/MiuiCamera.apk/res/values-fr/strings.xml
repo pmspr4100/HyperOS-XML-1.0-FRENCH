@@ -338,7 +338,7 @@ et ajustez les préférences automatiquement"</string>
     <string name="ambilight_intro_light_track">Utilisez une source de lumière pour \"peindre\" sur une scène sombre pour rassembler toutes les pièces éclairées en une seule image.</string>
     <string name="ambilight_intro_magic_star">"Utilisez ce mode dans les endroits avec une faible pollution lumineuse. L'exposition sera réglée à %d secondes, donc l'utilisation d'un trépied est une bonne idée."</string>
     <string name="ambilight_intro_magic_star_ae">"Utilisez ce mode dans les endroits avec une faible pollution lumineuse. L'exposition peut être réglée jusqu'à %d secondes, donc l'utilisation d'un trépied est une bonne idée."</string>
-    <string name="ambilight_intro_silky_water_part1">Utilisez ce mode lorsque vous photographiez des nuages en mouvement. Cela donnera au ciel un effet \"peinture à l'huile\".</string>
+    <string name="ambilight_intro_silky_water_part1">"Utilisez ce mode lorsque vous photographiez des nuages en mouvement. Cela donnera au ciel un effet \"peinture à l'huile\"."</string>
     <string name="ambilight_intro_silky_water_part2">"Ce mode fait que l'eau en mouvement (rivières, cascades et lacs) ressemble à du satin."</string>
     <string name="ambilight_intro_star_track">"Photographier le ciel étoilé pendant une longue période peut capturer les trajectoires des étoiles. N'oubliez pas d'utiliser un trépied et de filmer en continu pendant au moins %d minutes."</string>
     <string name="ambilight_intro_star_track_2">Photographier le ciel étoilé pendant une longue période peut capturer les trajectoires des étoiles. N’oubliez pas d’utiliser un trépied ! Filmez en continu pendant au moins %d minutes pour pouvoir obtenir à la fois des photos et des vidéos.</string>
