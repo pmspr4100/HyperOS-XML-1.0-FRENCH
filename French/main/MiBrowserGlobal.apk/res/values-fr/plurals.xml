@@ -298,4 +298,8 @@
         <item quantity="other">%s fois</item>
         <item quantity="one">%s fois</item>
     </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">La semaine dernière, Mi Browser a augmenté la vitesse de chargement de vos pages Web %d fois !</item>
+        <item quantity="one">La semaine dernière, Mi Browser a augmenté la vitesse de chargement de vos pages Web %d fois !</item>
+    </plurals>
 </resources>

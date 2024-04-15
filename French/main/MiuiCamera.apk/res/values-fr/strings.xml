@@ -338,7 +338,7 @@ et ajustez les préférences automatiquement"</string>
     <string name="ambilight_intro_light_track">Utilisez une source de lumière pour \"peindre\" sur une scène sombre pour rassembler toutes les pièces éclairées en une seule image.</string>
     <string name="ambilight_intro_magic_star">"Utilisez ce mode dans les endroits avec une faible pollution lumineuse. L'exposition sera réglée à %d secondes, donc l'utilisation d'un trépied est une bonne idée."</string>
     <string name="ambilight_intro_magic_star_ae">"Utilisez ce mode dans les endroits avec une faible pollution lumineuse. L'exposition peut être réglée jusqu'à %d secondes, donc l'utilisation d'un trépied est une bonne idée."</string>
-    <string name="ambilight_intro_silky_water_part1">Utilisez ce mode lorsque vous photographiez des nuages en mouvement. Cela donnera au ciel un effet \"peinture à l'huile\".</string>
+    <string name="ambilight_intro_silky_water_part1">"Utilisez ce mode lorsque vous photographiez des nuages en mouvement. Cela donnera au ciel un effet \"peinture à l'huile\"."</string>
     <string name="ambilight_intro_silky_water_part2">"Ce mode fait que l'eau en mouvement (rivières, cascades et lacs) ressemble à du satin."</string>
     <string name="ambilight_intro_star_track">"Photographier le ciel étoilé pendant une longue période peut capturer les trajectoires des étoiles. N'oubliez pas d'utiliser un trépied et de filmer en continu pendant au moins %d minutes."</string>
     <string name="ambilight_intro_star_track_2">Photographier le ciel étoilé pendant une longue période peut capturer les trajectoires des étoiles. N’oubliez pas d’utiliser un trépied ! Filmez en continu pendant au moins %d minutes pour pouvoir obtenir à la fois des photos et des vidéos.</string>
@@ -1844,6 +1844,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_super_night_se_desc">Détecte les conditions de faible luminosité tout en utilisant les modes Photo et Portrait pour améliorer automatiquement la qualité de l’image</string>
     <string name="pref_super_night_se_summary">"Détectez les conditions de faible éclairage et améliorez automatiquement la qualité de l'image"</string>
     <string name="pref_super_night_se_title">Mode nuit automatique</string>
+    <string name="pref_switch_camera_heic_image_desc">"Un format photo plus efficace qui économise de l'espace de stockage. Il prend en charge le mode Ultra HD, mais ne prend pas en charge les prises de vue dynamiques, la suppression des filigranes habituels et certaines applications tierces."</string>
     <string name="pref_true_colour_video_mode_description">Enregistrer des vidéos avec Dolby Vision pour capturer des détails réalistes, des couleurs époustouflantes et un contraste saisissant (cette fonctionnalité peut ne pas être compatible avec certaines applications tierces)</string>
     <string name="pref_true_colour_video_mode_introduction">Une expérience visuelle époustouflante, des détails réalistes et un contraste saisissant</string>
     <string name="pref_true_colour_video_mode_summary">Enregistrer des vidéos 1080P et 4K en modes Vidéo et Pro pour capturer des détails réalistes, des couleurs époustouflantes et un contraste saisissant (cette fonctionnalité peut ne pas être compatible avec certaines applications tierces)</string>

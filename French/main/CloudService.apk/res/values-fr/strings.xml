@@ -36,6 +36,7 @@
     <string name="am">AM</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Compte ou mot de passe non valide</string>
+    <string name="browser_sync_settings_preference">Synchroniser automatiquement</string>
     <string name="btn_return">Retour</string>
     <string name="btn_revoke_permission">Retirer le consentement</string>
     <string name="button_agree">Autoriser</string>
@@ -897,18 +898,18 @@ Les informations de localisation peuvent ne pas être transmises si la connexion
     <string name="update_dialog_no_update_toast_text">La version actuelle est à jour</string>
     <string name="update_dialog_title">Mise à jour disponible</string>
     <string name="update_dialog_update_button_text">Mettre à jour</string>
-    <string name="upgrade_member_storage">Xiaomi Cloud membership</string>
+    <string name="upgrade_member_storage">Adhésion Xiaomi Cloud</string>
     <string name="user_agreement_content">"En utilisant ce service, vous acceptez %s."</string>
     <string name="user_agreement_link">"Conditions générales d'utilisation de Xiaomi Cloud"</string>
     <string name="user_agreement_title">Modalités du service Xiaomi Cloud</string>
     <string name="v7_preference_off">DÉSACTIVÉ</string>
     <string name="v7_preference_on">ACTIVÉ</string>
     <string name="waiting_for_sync">Patienter…</string>
-    <string name="web_view_auto_login_fail">"Couldn't sign in. Try again."</string>
-    <string name="web_view_login_text">Signing in…</string>
-    <string name="web_view_reload_btn_text">Try again</string>
-    <string name="web_view_reload_description_text">"Couldn't connect to the network.
-        Check your network settings and try again."</string>
+    <string name="web_view_auto_login_fail">Connexion impossible. Réessayez.</string>
+    <string name="web_view_login_text">Connexion…</string>
+    <string name="web_view_reload_btn_text">Réessayez</string>
+    <string name="web_view_reload_description_text">"Impossible de se connecter au réseau.
+Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="wednesday">Mercredi</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

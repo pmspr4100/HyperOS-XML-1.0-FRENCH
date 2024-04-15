@@ -139,9 +139,9 @@ dd/MM"</string>
   <string name="format_hour_minute">%1$s:%2$s</string>
   <string name="format_lunar_calendar_month_day_desc">Date selon le calendrier chinois traditionnel : %s</string>
   <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, date selon le calendrier chinois traditionnel : %3$s, jour férié : %4$s</string>
-  <string name="format_month_day_style1">d/MMM</string>
-  <string name="format_month_day_style2">d/M</string>
-  <string name="format_month_day_week">EEE dd MMM</string>
+  <string name="format_month_day_style1">j/MMM</string>
+  <string name="format_month_day_style2">j/M</string>
+  <string name="format_month_day_week">EEE jj MMM</string>
   <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, date selon le calendrier chinois traditionnel : %4$s</string>
   <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, vacances : %4$s</string>
   <string name="format_solar_lunar_calendar_month_day_desc">Jour férié : %1$s, date selon le calendrier chinois traditionnel : %2$s</string>
