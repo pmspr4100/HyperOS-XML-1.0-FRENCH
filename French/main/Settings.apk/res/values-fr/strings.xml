@@ -2760,7 +2760,6 @@ Ce paramètre affecte tous les utilisateurs de cet appareil."</string>
     <string name="date_picker_headline">Selected date</string>
     <string name="date_picker_headline_description">Current selection: %1$s</string>
     <string name="date_picker_lunar">Calendrier traditionnel chinois</string>
-    <string name="date_picker_title">Date</string>
     <string name="date_picker_navigate_to_year_description">Navigate to year %1$s</string>
     <string name="date_picker_no_selection_description">None</string>
     <string name="date_picker_switch_to_calendar_mode">Switch to calendar input mode</string>
@@ -6542,7 +6541,6 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notification_volume_control">Control notification sounds</string>
     <string name="notification_volume_control_note">Adjust the volume of notification sounds separately</string>
     <string name="notification_volume_disabled_summary">Unavailable because ring is muted</string>
-    <string name="notification_volume_option_title">Notification</string>
     <string name="notification_volume_sync_ring">Volume of notifications will be the same as your ringtone</string>
     <string name="notifications_bubble_setting_description">"Certaines conversations apparaîtront sous forme d'icônes flottantes au-dessus d'autres applications"</string>
     <string name="notifications_bubble_setting_on_summary">"Activé / Les conversations peuvent apparaître sous forme d'icônes flottantes"</string>
