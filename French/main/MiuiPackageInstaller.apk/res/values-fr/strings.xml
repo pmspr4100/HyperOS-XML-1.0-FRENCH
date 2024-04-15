@@ -407,7 +407,6 @@
     <string name="more">Plus</string>
     <string name="morning">Matin</string>
     <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
-    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="mtrl_checkbox_state_description_checked">Vérifié</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Partiellement vérifié</string>
     <string name="mtrl_checkbox_state_description_unchecked">Non coché</string>
