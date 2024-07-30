@@ -179,7 +179,7 @@ Voulez-vous quitter maintenant ?} }"</string>
     <string name="apn_settings">"Noms des points d'accès"</string>
     <string name="app_name">Préférence</string>
     <string name="arrears_sim_summary">Rechargez le solde de votre téléphone pour rester connecté.</string>
-    <string name="arriérés_sim_title">Fonds insuffisants</string>
+    <string name="arrears_sim_title">Fonds insuffisants</string>
     <string name="ask">Demander</string>
     <string name="atr_disable">Les rapports de trafic aérien sont désactivés</string>
     <string name="atr_enable">Les rapports de trafic aérien sont activés</string>

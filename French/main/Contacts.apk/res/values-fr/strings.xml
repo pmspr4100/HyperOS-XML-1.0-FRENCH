@@ -961,7 +961,7 @@ Appuyez sur \"%1$s\", puis sélectionnez \"%2$s\"."</string>
     <string name="passport_error_user_password">"Les mots de passe ne correspondent pas"</string>
     <string name="passport_exceed_bound_phone_times_notice">Ce numéro de téléphone est déjà associé à un autre compte Xiaomi.</string>
     <string name="passport_facebook_login_btn_content_description">Connectez-vous avec Facebook</string>
-    <string name="passport_ Frequency_try_later">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
+    <string name="passport_frequency_try_later">Trop de tentatives. Attendez une minute ou deux et réessayez.</string>
     <string name="passport_get_login_type_next">Suivant</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et réessayez.</string>
     <string name="passport_google_login_btn_content_description">Connectez-vous avec Google</string>
