@@ -372,7 +372,7 @@ Les RAPI sur un an et cinq ans seront indiqués le 20 de chaque mois (des retard
     <string name="mt_max">Le montant que vous avez entré est trop gros</string>
     <string name="mulDesc">multiplier</string>
     <string name="name_amount">Montant</string>
-    <string name="name_discount">Remise (% désactiver)</string>
+    <string name="name_discount">Remise (%s)</string>
     <string name="name_is">Résultat</string>
     <string name="name_of">Totale</string>
     <string name="name_original">"Prix de base"</string>
